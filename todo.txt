@@ -1,0 +1,24 @@
+Install and setup (Django)
+Install and setup (Vue)
+Include Font Awesome
+How to set up the base template
+How to create the Django app and models for products
+How to create the serializer and views for the products
+How to create a simple front page (latest products)
+How to view a product
+How to set up Vuex / State
+How to make it possible to add to cart
+How to implement a loading bar
+How to set the document title (All pages)
+How to make it possible to view a category
+How to add search functionality
+How to view cart
+How to change the contents of the cart (Increment/Decrement content, Remove from cart)
+How to enable sign up
+How to enable log in
+How to create a simple my account page
+How to proceed to checkout (Authentication)
+How to create a simple success page
+How to show my orders on the my account page
+How to deploy Django
+How to deploy Vue (Generate files locally, Send files to server, Set up NGINX virtual host)
