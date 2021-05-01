@@ -1,4 +1,6 @@
-Install and setup (Django)
+-TODO List
+
+-DONE Install and setup (Django)
 Install and setup (Vue)
 Include Font Awesome
 How to set up the base template
