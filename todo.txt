@@ -2,7 +2,7 @@
 
 -DONE Install and setup (Django)
 -DONE Install and setup (Vue)
-Include Font Awesome
+-Done Include Font Awesome
 How to set up the base template
 How to create the Django app and models for products
 How to create the serializer and views for the products
