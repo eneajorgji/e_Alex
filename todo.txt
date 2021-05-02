@@ -1,7 +1,7 @@
 -TODO List
 
 -DONE Install and setup (Django)
-Install and setup (Vue)
+-DONE Install and setup (Vue)
 Include Font Awesome
 How to set up the base template
 How to create the Django app and models for products
